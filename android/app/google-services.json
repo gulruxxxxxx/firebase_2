@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983918092259",
+    "project_id": "productiv-349e6",
+    "storage_bucket": "productiv-349e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983918092259:android:0ad8001a9a884222e74ad6",
+        "android_client_info": {
+          "package_name": "com.example.produktiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLX8cCZS648tFQUpWi_GdWRObpLNnz8R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
